@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 ## Overview of Analysis
-Bobby and I are analyzing data for Pewlett Hackard, a large company with several thousand employees. We were tasked in analyzing the number of retiring employees per title and identify employees eligible for participating in a mentorship program.
+Analyzing data for Pewlett Hackard, a large company with several thousand employees. Was tasked in analyzing the number of retiring employees per title and identify employees eligible for participating in a mentorship program.
 
 ## Results
 ### Figure 1: Retirement Titles
