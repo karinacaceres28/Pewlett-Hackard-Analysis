@@ -1,4 +1,4 @@
-# Pewlett-Hackard-Analysis
+# Pewlett_Hackard_Analysis
 ## Overview of Analysis
 Analyzing data for Pewlett Hackard, a large company with several thousand employees. Was tasked in analyzing the number of retiring employees per title and identify employees eligible for participating in a mentorship program.
 
